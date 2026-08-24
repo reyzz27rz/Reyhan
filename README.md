@@ -42,3 +42,8 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 * **Instagram:** [reyhnnzz__](https://www.instagram.com/reyhnnzz__?igsi=dzhncWlsanpneWwx)
 * **Email:** reyyzzz01@gmail.com
+
+### 📊 GitHub Stats
+
+![Reyhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reyzz27rz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyzz27rz&layout=compact&theme=tokyonight)
