@@ -41,6 +41,6 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ### 📫 Connect with Me
 
-* **Instagram:** [Instagram](https://www.instagram.com/reyhnnzz__?igsi=dzhncWlsanpneWwx)
+* **Instagram:** [reyhnnzz__](https://www.instagram.com/reyhnnzz__?igsi=dzhncWlsanpneWwx)
 * **Email:** email.anda@example.com
 * **Portfolio:** [website-anda.dev](https://example.com)
