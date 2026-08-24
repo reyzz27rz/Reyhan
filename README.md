@@ -6,7 +6,7 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ---
 
-### Lulusan Pendidikan 🎓
+### 🎓 Lulusan Pendidikan
 - SD
 - SMP
 - SMK
@@ -32,7 +32,7 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ### 📊 Photo Projek
 
-![Tampilan Olshop](img/Tampilan Olshop.png)
+![Tampilan Olshop](Tampilan_Olshop.png)
 
 ---
 
@@ -40,4 +40,3 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 * **Instagram:** [reyhnnzz__](https://www.instagram.com/reyhnnzz__?igsi=dzhncWlsanpneWwx)
 * **Email:** reyyzzz01@gmail.com
-* **Portfolio:** [website-anda.dev](https://example.com)
