@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkout 5</title>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+  
+    <nav class="navbar">
+    <div class="navbar-logo"><span>REYZ</span>Shop</div>
+
+    <div class="navbar-search">
+      <input type="text" placeholder="Cari produk, merek, atau kategori..." />
+      <button>🔍</button>
+    </div>
+
+    <div class="navbar-links">
+      <a href="Index.html" class="navbar-link"> Home </a>
+      <a href="Profil.html" class="navbar-link"> Profil </a>
+      <a href="Index.html#produk" class="navbar-link"> Produk </a>
+      <a href="Voucher.html" class="navbar-link">Voucher</a>
+      <a href="login.html" class="navbar-button">Logout</a>
+    </div>
+  </nav>
+
+    <div class="auth-bgcheckout">
+
+    <div class="bgcheckout checkout-card">
+      <div class="checkout-brand">
+        <h2><span>REYZ</span>Shop</h2>
+      </div>
+
+      <div class="checkout-header">
+        <h2>Checkout</h2>
+      </div>
+
+      <div class="checkout-product">
+        <div class="product-title">Celana Baggy Jeans Black</div>
+        <div class="product-price">Rp 180.000</div>
+      </div>
+
+      <form action="Selesai.html" method="get" class="checkout-form">
+        <label class="field">
+          <span class="field-label">Nama Lengkap</span>
+          <input
+            class="colom"
+            type="text"
+            name="name"
+            placeholder="Masukkan nama"
+            required
+          />
+        </label>
+
+        <label class="field">
+          <span class="field-label">Alamat Pengiriman</span>
+          <input
+            class="colom"
+            type="text"
+            name="address"
+            placeholder="Masukkan alamat"
+            required
+          />
+        </label>
+
+        <label class="field">
+          <span class="field-label">Metode Pembayaran</span>
+          <select class="colom" name="payment" required>
+            <option value="" selected disabled>Pilih metode</option>
+            <option value="COD">COD</option>
+            <option value="Kartu Kredit">Kartu Kredit</option>
+            <option value="Transfer Bank">Transfer Bank</option>
+            <option value="E-Wallet">E-Wallet</option>
+          </select>
+        </label>
+
+        <button class="tombol-checkout" type="submit">
+          Selesaikan Pembelian
+        </button>
+      </form>
+    </div>
+  </div>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Voucher</title>
+    <link rel="stylesheet" href="Style.css" />
+  </head>
+  <body>
+
+    <nav class="navbar">
+      <div class="navbar-logo"><span>REYZ</span>Shop</div>
+
+      <div class="navbar-search">
+        <input
+          type="text"
+          placeholder="Cari Barang, Produk, atau Merek Yang Anda Mau ..."
+        />
+        <button>🔍</button>
+      </div>
+
+      <div class="navbar-links">
+        <a href="Index.html" class="navbar-link"> Home </a>
+        <a href="Profil.html" class="navbar-link"> Profil </a>
+        <a href="Index.html#produk" class="navbar-link"> Produk </a>
+        <a href="Voucher.html" class="navbar-link">Voucher</a>
+        <a href="login.html" class="navbar-button">Logout</a>
+      </div>
+    </nav>
+
+    <div class="voucher-bg">
+    <main class="voucher-page">
+      <section class="voucher-hero">
+        <div>
+          <h1 class="voucher-title">Voucher</h1>
+          <div class="voucher-subtitle">
+            Masukkan kode voucher untuk mendapatkan diskon.
+          </div>
+        </div>
+      </section>
+
+      <section class="voucher-grid">
+        <div class="voucher-card">
+          <form class="voucher-form" action="Selesai.html" method="get">
+            <label>
+              <div class="label-voucher"> Kode Voucher </div>
+              <input class="input-voucher" type="text" name="voucher" placeholder="Contoh: REYZ10"/>
+            </label>
+
+            <div class="btn-1">
+              <button class="btn-apply" type="submit">Terapkan Voucher</button>
+            </div>
+
+            <div class="voucher-note">
+              Catatan: di halaman demo ini, voucher langsung mengarah ke
+              Selesai.
+            </div>
+          </form>
+        </div>
+          </div>
+      </section>
+    </main>
+    </div>
+  </body>
+</html>
