@@ -45,5 +45,6 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
                 alt="Instagram Logo"
                 style="width: 20px; height: 20px; margin-right: 5px">
    * **Instagram:** [reyhnnzz__](https://www.instagram.com/reyhnnzz__?igsi=dzhncWlsanpneWwx)
+ </img>
 </p>
 * **Email:** reyyzzz01@gmail.com
