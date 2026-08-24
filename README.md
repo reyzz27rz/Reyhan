@@ -24,7 +24,7 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ### 🚀 Selected Projects
 
-* **[Olshop](file:///C:/Users/Reyz/Reyhan/Shop_Reyz/Index.html)**
+* **[Olshop](https://reyzz27rz.github.io/Reyhan/Shop_Reyz/Index.html)**
   * Sistem *e-commerce* microservices menggunakan HTML dan CSS.
   * Mampu menangani hingga 1.000+ request per detik dengan latency di bawah 100ms.
 
