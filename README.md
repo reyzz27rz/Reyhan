@@ -22,7 +22,7 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ### 🚀 Selected Projects
 
-* **[Nama Projek 1](https://github.com/username/project-1)**
+* **[Olshop](http://127.0.0.1:3000/Index.html?vscode-livepreview=true)**
   * Sistem *e-commerce* microservices menggunakan Node.js dan Redis untuk caching.
   * Mampu menangani hingga 1.000+ request per detik dengan latency di bawah 100ms.
 
