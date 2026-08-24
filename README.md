@@ -32,7 +32,7 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ### 📊 Photo Projek
 
-<img src="Tampilan_Olshop.png" width="300">
+<img src="Tampilan_Olshop.png" width="500">
 
 ---
 
