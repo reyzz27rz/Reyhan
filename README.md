@@ -30,10 +30,9 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Photo Projek
 
-![Stats](https://github-readme-stats.vercel.app/api?username=username-github-anda&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username-github-anda&layout=compact&theme=radial)
+![Tampilan Olshop](Tampilan Olshop.png)
 
 ---
 
