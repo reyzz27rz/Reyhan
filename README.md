@@ -24,7 +24,7 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ### 🚀 Selected Projects
 
-* **[Olshop](http://127.0.0.1:3000/Index.html?vscode-livepreview=true)**
+* **[Olshop](Index.html)**
   * Sistem *e-commerce* microservices menggunakan HTML dan CSS.
   * Mampu menangani hingga 1.000+ request per detik dengan latency di bawah 100ms.
 
