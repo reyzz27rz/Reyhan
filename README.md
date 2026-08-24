@@ -5,11 +5,13 @@
 Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/sistem yang scalable, efisien, dan maintainable. Berpengalaman dalam merancang arsitektur backend, mengoptimalkan query database, serta membangun antarmuka pengguna yang responsif.
 
 ---
+
 ### Lulusan Pendidikan 🎓
 - SD
 - SMP
 - SMK
 - S1
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -23,12 +25,8 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 ### 🚀 Selected Projects
 
 * **[Olshop](http://127.0.0.1:3000/Index.html?vscode-livepreview=true)**
-  * Sistem *e-commerce* microservices menggunakan Node.js dan Redis untuk caching.
+  * Sistem *e-commerce* microservices menggunakan HTML dan CSS.
   * Mampu menangani hingga 1.000+ request per detik dengan latency di bawah 100ms.
-
-* **[Nama Projek 2](https://github.com/username/project-2)**
-  * Dashboard analitik real-time berbasis WebSockets dan React.js.
-  * Mengintegrasikan CI/CD pipeline menggunakan GitHub Actions untuk deployment otomatis.
 
 ---
 
