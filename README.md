@@ -40,5 +40,5 @@ Saya seorang Software Engineer yang berfokus pada pembangunan aplikasi web/siste
 
 ### 📫 Connect with Me
 
-* ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)**Instagram:** [reyhnnzz__](https://www.instagram.com/reyhnnzz__?igsi=dzhncWlsanpneWwx)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="100">**Instagram:** [reyhnnzz__](https://www.instagram.com/reyhnnzz__?igsi=dzhncWlsanpneWwx)
 * **Email:** reyyzzz01@gmail.com
